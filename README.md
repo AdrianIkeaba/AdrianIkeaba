@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JetPack Compose, Flutter, Swift**
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available here and more are coming :)
 
 - 💬 Ask me about **Kotlin, Android, Java**
 
