@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">Your digital maestro crafting bespoke android solutions.</h3>
+<h3 align="center">Android and Backend Developer</h3>
+<h4 align="center">Kotlin & Java</h4>
 
-- 🔭 I’m currently working on **An emergency software to give first aid to people involved in accidents using dromes.**
+- 🔭 I’m currently working on **Incidence portal mobile app.**
 
-- 🌱 I’m currently learning **JetPack Compose, Flutter, Swift**
+- 🌱 I’m currently learning **JetPack Compose, Spring boot, KMP**
 
 - 👨‍💻 All of my projects are available here and more are coming :)
 
