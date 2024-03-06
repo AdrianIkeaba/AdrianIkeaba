@@ -2,6 +2,8 @@
 <h3 align="center">Android and Backend Developer</h3>
 <h4 align="center">Kotlin & Java</h4>
 
+[![wakatime](https://wakatime.com/badge/user/14e637ea-356f-4bea-94e2-c4d83aeeef35.svg)](https://wakatime.com/@14e637ea-356f-4bea-94e2-c4d83aeeef35)
+
 - 🔭 I’m currently working on **Incidence portal mobile app.**
 
 - 🌱 I’m currently learning **JetPack Compose, Spring boot, KMP**
