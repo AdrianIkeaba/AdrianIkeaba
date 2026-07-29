@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences 
 
-- 🏆 Kotlin Conf Winner '26 [Kotlin Conf Contest Winners] (https://kotlinconf.com/contest/)
+- 🏆 Kotlin Conf Winner '26 [Kotlin Conf Contest Winners](https://kotlinconf.com/contest/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
