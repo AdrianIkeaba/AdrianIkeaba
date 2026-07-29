@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **adrianikeaba@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J6J28mPF_CbKU9RbkJYLeEOUQlg4Q0LX/view?usp=drivesdk](https://drive.google.com/file/d/1J6J28mPF_CbKU9RbkJYLeEOUQlg4Q0LX/view?usp=drivesdk)
+- 📄 Know about my experiences 
+
+- 🏆 Kotlin Conf Winner '26 [Kotlin Conf Contest Winners] (https://kotlinconf.com/contest/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
