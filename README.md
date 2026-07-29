@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **adrianikeaba@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences [Ikeaba_Adrian_Resume PDF.pdf](https://github.com/user-attachments/files/30502804/Ikeaba_Adrian_Resume.pdf.pdf)
+
 
 - 🏆 Kotlin Conf Winner '26 [Kotlin Conf Contest Winners](https://kotlinconf.com/contest/)
 
